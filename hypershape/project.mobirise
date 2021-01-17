@@ -57,7 +57,7 @@
     "uniqCompNum": 91,
     "versionPublish": "5.2.0",
     "imageResize": true,
-    "favicon": false,
+    "favicon": "@PROJECT_PATH@/assets/images/icon-128x128.png",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
